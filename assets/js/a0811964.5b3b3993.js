@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfk_api_platform_docs=self.webpackChunkfk_api_platform_docs||[]).push([[7049],{19876:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/pages/Flipkart/fk-api-platform-docs/blog/tags/hola","allTagsPath":"/pages/Flipkart/fk-api-platform-docs/blog/tags","count":1}')}}]);
