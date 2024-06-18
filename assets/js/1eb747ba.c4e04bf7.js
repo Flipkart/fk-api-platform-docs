@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfk_api_platform_docs=self.webpackChunkfk_api_platform_docs||[]).push([[3221],{59806:a=>{a.exports=JSON.parse('{"label":"docusaurus","permalink":"/pages/Flipkart/fk-api-platform-docs/blog/tags/docusaurus","allTagsPath":"/pages/Flipkart/fk-api-platform-docs/blog/tags","count":4}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfk_api_platform_docs=self.webpackChunkfk_api_platform_docs||[]).push([[7461],{25860:o=>{o.exports=JSON.parse('{"permalink":"/fk-api-platform-docs/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
