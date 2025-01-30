@@ -1,0 +1,1 @@
+(self.webpackChunkfk_api_platform_docs=self.webpackChunkfk_api_platform_docs||[]).push([[1893],{44616:()=>{},42480:()=>{}}]);
