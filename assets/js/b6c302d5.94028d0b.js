@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfk_api_platform_docs=self.webpackChunkfk_api_platform_docs||[]).push([[4478],{18055:a=>{a.exports=JSON.parse('{"label":"docusaurus","permalink":"/fk-api-platform-docs/blog/tags/docusaurus","allTagsPath":"/fk-api-platform-docs/blog/tags","count":4}')}}]);
