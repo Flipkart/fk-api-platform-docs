@@ -4,8 +4,8 @@
   <ShortName>Flipkart API Platform Hub</ShortName>
   <Description>Search Flipkart API Platform Hub</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://seller.flipkart.com/pages/Flipkart/fk-api-platform-docs/img/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://seller.flipkart.com/pages/Flipkart/fk-api-platform-docs/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://seller.flipkart.com/pages/Flipkart/fk-api-platform-docs/opensearch.xml" />
-  <moz:SearchForm>https://seller.flipkart.com/pages/Flipkart/fk-api-platform-docs/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://seller.flipkart.com/fk-api-platform-docs/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://seller.flipkart.com/fk-api-platform-docs/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://seller.flipkart.com/fk-api-platform-docs/opensearch.xml" />
+  <moz:SearchForm>https://seller.flipkart.com/fk-api-platform-docs/</moz:SearchForm>
 </OpenSearchDescription>

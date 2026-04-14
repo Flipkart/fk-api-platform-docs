@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfk_api_platform_docs=self.webpackChunkfk_api_platform_docs||[]).push([[5729],{42132:a=>{a.exports=JSON.parse('{"permalink":"/pages/Flipkart/fk-api-platform-docs/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
